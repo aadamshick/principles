@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Values
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This page tracks high-level values from which everything else is linked.
+
+## Values
+- [[truth]]
+- [[focus]]
