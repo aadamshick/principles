@@ -1,8 +1,8 @@
 ---
-title: Truth
+title: Detachment
 type: value
 ---
 
 ## Principles that support this value
 
-- [[neutral-zone-principle]]
+- [[donkey-principle]]

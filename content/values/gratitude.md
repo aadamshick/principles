@@ -1,8 +1,8 @@
 ---
-title: Truth
+title: Gratitude
 type: value
 ---
 
 ## Principles that support this value
 
-- [[neutral-zone-principle]]
+- [[donkey-principle]]
