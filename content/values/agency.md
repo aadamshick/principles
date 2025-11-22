@@ -10,4 +10,3 @@ Taking ownership of your reality
 - [[mindset-principle]]
 - [[expectation-principle]]
 - [[discipline-principle]]
-- [[restraint-principle]]

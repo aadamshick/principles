@@ -1,8 +1,8 @@
 ---
-title: Neutral Zone Principle
+title: Commitment Principle
 type: principle
 ---
 
-You learn through action
+Commitment leads to purpose
 
 ## Quotes that support this principle

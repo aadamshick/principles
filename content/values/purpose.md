@@ -5,6 +5,7 @@ type: value
 
 ## Principles that support this value
 
-- [[life-principle]]
+- [[scarcity-principle]]
 - [[definition-principle]]
+- [[commitment-principle]]
 - [[freedom-principle]]
