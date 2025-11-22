@@ -1,8 +1,0 @@
----
-title: Neutral Zone Principle
-type: principle
----
-
-You learn through action
-
-## Quotes that support this principle

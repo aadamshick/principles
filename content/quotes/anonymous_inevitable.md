@@ -5,4 +5,4 @@ source: Saptagiri
 ---
 
 > "If something is going to inevitably happen, do it quickly."
-> — Saptagiri
+> — Anonymous ^quote

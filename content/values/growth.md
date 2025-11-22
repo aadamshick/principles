@@ -5,7 +5,7 @@ type: value
 
 ## Principles that support this value
 
-- [[neutral-zone-principle]]
+- [[action-principle]]
 - [[backward-principle]]
 - [[rest-principle]]
 - [[insanity-principle]]
