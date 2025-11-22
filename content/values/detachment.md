@@ -3,6 +3,9 @@ title: Detachment
 type: value
 ---
 
+Going with the flow
+
 ## Principles that support this value
 
-- [[donkey-principle]]
+- [[obstacle-principle]]
+- [[student-principle]]

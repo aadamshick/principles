@@ -1,12 +1,13 @@
 ---
 title: Donkey Principle
 type: principle
-values: ["Focus"]
 ---
 
-This principle captures the idea that it's better to commit fully to one thing than split attention between two.
+Focus on one thing at a time
+
+- TODO: incorporate commitment quotes where relevant
+- donkey principle -> general rule
+- fail fast -> truth
+- commitment principle -> once you're set on an output, commit fully
 
 ## Quotes that support this principle
-- [[whole-ass-one-thing]]
-- [[straddling]]
-- [[buridans-donkey]]

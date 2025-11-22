@@ -1,11 +1,10 @@
 ---
 title: Neutral Zone Principle
 type: principle
-values: ["Truth"]
 ---
 
-This principle reflects the idea that delaying the inevitable merely compounds the cost.
+You learn through action
+
+- TODO: add inaction principle
 
 ## Quotes that support this principle
-- [[inevitable]]
-- [[two-weeks]]

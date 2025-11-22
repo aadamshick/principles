@@ -5,4 +5,6 @@ type: value
 
 ## Principles that support this value
 
-- [[neutral-zone-principle]]
+- [[barber-principle]]
+- [[criticism-principle]]
+- [[honesty-policy]]

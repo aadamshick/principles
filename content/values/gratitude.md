@@ -5,4 +5,6 @@ type: value
 
 ## Principles that support this value
 
-- [[donkey-principle]]
+- [[scarcity-principle]]
+- [[gratitude-principle]]
+- [[cat-principle]]
