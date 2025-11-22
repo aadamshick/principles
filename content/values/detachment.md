@@ -7,5 +7,5 @@ Going with the flow
 
 ## Principles that support this value
 
-- [[obstacle-principle]]
 - [[student-principle]]
+- [[obstacle-principle]]

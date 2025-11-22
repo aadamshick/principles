@@ -3,6 +3,6 @@ title: Gratitude Principle
 type: principle
 ---
 
-Gratitude is happiness
+Gratitude = happiness
 
 ## Quotes that support this principle

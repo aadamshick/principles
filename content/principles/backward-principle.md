@@ -1,5 +1,5 @@
 ---
-title: Backwards Principle
+title: Backward Principle
 type: principle
 ---
 

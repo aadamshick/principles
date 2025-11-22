@@ -5,6 +5,5 @@ type: value
 
 ## Principles that support this value
 
-- [[barber-principle]]
-- [[criticism-principle]]
 - [[honesty-policy]]
+- [[barber-principle]]
