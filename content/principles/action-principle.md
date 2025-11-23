@@ -7,6 +7,6 @@ You learn through action
 
 ## Quotes that support this principle
 
-![[mark-manson_action#^quote]]
+![[manson-mark_action#^quote]]
 ![[anonymous_inevitable#^quote]]
-![[vince-vaughn_two-weeks#^quote]]
+![[vaughn-vince_two-weeks#^quote]]
