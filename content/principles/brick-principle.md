@@ -1,5 +1,5 @@
 ---
-title: Barber Principle
+title: Brick Principle
 type: principle
 ---
 

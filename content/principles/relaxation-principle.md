@@ -1,5 +1,5 @@
 ---
-title: Reach Out Principle
+title: Relax Principle
 type: principle
 ---
 
