@@ -1,8 +1,8 @@
 ---
-title: Standing Still
+title: Switch
 type: quote
-source: Kevin Kelly
+source: Derek Sivers
 ---
 
-> "Many backward steps are made by standing still"
-> — Kevin Kelly ^quote
+> "If it's not a hit, switch"
+> — Derek Sivers ^quote
