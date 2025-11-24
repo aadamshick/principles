@@ -1,5 +1,5 @@
 ---
-title: Expectation
+title: Expectation Principle
 type: principle
 ---
 
