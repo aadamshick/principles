@@ -1,8 +1,8 @@
 ---
-title: Do It
+title: Get Busy
 type: quote
-source: Derek Sivers
+source: Dale Carnegie
 ---
 
-> "It feels great to eliminate the time between thinking something and doing it."
-> — Derek Sivers ^quote
+> "Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer the negative elements in your life, don’t sit at home and think about it. Go out and get busy!"
+> — Dale Carngie ^quote

@@ -1,8 +1,8 @@
 ---
-title: Indecision
+title: Standing Still
 type: quote
-source: Carmela Soprano
+source: Kevin Kelly
 ---
 
-> "More is lost by indecision than by wrong decision"
-> — Carmela Soprano ^quote
+> "Many backward steps are made by standing still"
+> — Kevin Kelly ^quote

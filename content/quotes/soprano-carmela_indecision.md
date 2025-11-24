@@ -1,8 +1,8 @@
 ---
-title: Jump In
+title: Indecision
 type: quote
-source: Tony Soprano
+source: Carmela Soprano
 ---
 
-> "Don’t overthink it. Either jump in with both feet, or don’t"
-> — Tony Soprano ^quote
+> "More is lost by indecision than by wrong decision"
+> — Carmela Soprano ^quote

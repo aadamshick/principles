@@ -1,8 +1,8 @@
 ---
-title: Switch
+title: Do it
 type: quote
 source: Derek Sivers
 ---
 
-> "If it's not a hit, switch"
+> "It feels great to eliminate the time between thinking something and doing it."
 > — Derek Sivers ^quote
