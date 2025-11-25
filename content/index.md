@@ -2,11 +2,10 @@
 title: Values
 ---
 
-## Values
-
 - [[agency]]
-- [[community]]
-- [[detachment]]
+- [[connection]]
+- [[contribution]]
+- [[flexibility]]
 - [[focus]]
 - [[gratitude]]
 - [[growth]]

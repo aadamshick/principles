@@ -7,3 +7,4 @@ type: value
 
 - [[donkey-principle]]
 - [[minimalism-principle]]
+- [[input-output-principle]]

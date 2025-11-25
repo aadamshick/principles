@@ -3,8 +3,12 @@ title: Brick Principle
 type: principle
 ---
 
-Big outcomes come from a collection of small outcomes
+Big outcomes come from a collection of small steps
 
 ## Quotes that support this principle
 
-![[sivers-derek_one-action#^quote]]
+![[smith-will_lay-this-brick#^quote]]
+![[kelly-kevin_compounding-gains#^quote]]
+![[proverb_many-mickles#^quote]]
+![[proverb_eat-elephant#^quote]]
+![[proverb_rome-built-day#^quote]]

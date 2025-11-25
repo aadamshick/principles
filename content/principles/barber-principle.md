@@ -13,7 +13,7 @@ Question your sources
 ![[gide-andre_seek-truth#^quote]]
 ![[kelly-kevin_evidence#^quote]]
 ![[dalio-ray_believability#^quote]]
-![[anonymous_first-report#^quote]]
+![[proverb_first-report#^quote]]
 ![[graham-paul_skepticism#^quote]]
 ![[angelou-maya_self-love#^quote]]
 ![[gorlon-mike_uncertainty#^quote]]

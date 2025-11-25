@@ -5,4 +5,5 @@ source: Anonymous
 ---
 
 > "If something is going to inevitably happen, do it quickly."
-> — Anonymous ^quote
+> -- Anonymous ^quote
+

@@ -1,9 +1,7 @@
 ---
-title: Detachment
+title: Flexibility
 type: value
 ---
-
-Going with the flow
 
 ## Principles that support this value
 

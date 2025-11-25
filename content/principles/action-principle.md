@@ -3,7 +3,7 @@ title: Action Principle
 type: principle
 ---
 
-You learn through action
+You grow through action
 
 ## Quotes that support this principle
 
@@ -20,4 +20,4 @@ You learn through action
 ![[sivers-derek_do-it#^quote]]
 ![[kelly-kevin_standing-still#^quote]]
 ![[soprano-tony_jump-in#^quote]]
-![[anonymous_get-off-pot#^quote]]
+![[proverb_get-off-pot#^quote]]
