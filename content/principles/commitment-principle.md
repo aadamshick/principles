@@ -3,6 +3,6 @@ title: Commitment Principle
 type: principle
 ---
 
-Commitment leads to purpose
+Big outcomes require long-term commitment
 
 ## Quotes that support this principle

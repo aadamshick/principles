@@ -15,7 +15,6 @@ You grow through action
 ![[sivers-derek_one-action#^quote]]
 ![[kelly-kevin_show-up#^quote]]
 ![[sternin-jerry_act-first#^quote]]
-![[kelly-kevin_behavior#^quote]]
 ![[zarlenga-peter_conquer-fear#^quote]]
 ![[sivers-derek_do-it#^quote]]
 ![[kelly-kevin_standing-still#^quote]]
