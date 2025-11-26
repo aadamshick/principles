@@ -7,3 +7,4 @@ type: value
 
 - [[student-principle]]
 - [[obstacle-principle]]
+- [[let-go-principle]]
