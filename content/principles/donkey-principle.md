@@ -9,3 +9,4 @@ Focus on one thing at a time
 
 ![[sivers-derek_buridans-donkey#^quote]]
 ![[swanson-ron_whole-ass-one-thing#^quote]]
+![[willink-jocko_donkey#^quote]]

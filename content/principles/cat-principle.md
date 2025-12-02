@@ -14,3 +14,4 @@ Don't forget to appreciate the small pleasures in life
 ![[soprano-corrado_pleasures#^quote]]
 ![[anonymous_speed-up-time#^quote]]
 ![[anonymous_fun-yet#^quote]]
+![[cooper-dale_cat#^quote]]
