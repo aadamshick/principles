@@ -3,7 +3,7 @@ title: Relax Principle
 type: principle
 ---
 
-You perform at your best when you are calm, relaxed, and unhurried
+Relax for best results
 
 ## Quotes that support this principle
 

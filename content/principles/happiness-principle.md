@@ -1,9 +1,9 @@
 ---
-title: Gratitude Principle
+title: Happiness Principle
 type: principle
 ---
 
-Gratitude = happiness
+Happiness = gratitude
 
 ## Quotes that support this principle
 

@@ -7,4 +7,5 @@ type: value
 
 - [[student-principle]]
 - [[obstacle-principle]]
-- [[let-go-principle]]
+- [[relax-principle]]
+- [[worry-principle]]

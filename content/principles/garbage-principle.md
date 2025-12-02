@@ -3,7 +3,7 @@ title: Garbage Principle
 type: principle
 ---
 
-Quality input leads to quality output
+You get back what you put into something
 
 ## Quotes that support this principle
 

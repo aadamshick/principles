@@ -10,3 +10,4 @@ type: value
 - [[rest-principle]]
 - [[insanity-principle]]
 - [[brick-principle]]
+- [[mountain-principle]]

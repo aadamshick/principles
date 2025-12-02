@@ -3,7 +3,7 @@ title: Revenge Principle
 type: principle
 ---
 
-Revenge and resentment are self-destructive
+Revenge is self-destructive
 
 ## Quotes that support this principle
 

@@ -8,5 +8,5 @@ type: value
 - [[golden-rule]]
 - [[criticism-principle]]
 - [[proximity-principle]]
-- [[half-life-principle]]
 - [[reach-out-principle]]
+- [[revenge-principle]]

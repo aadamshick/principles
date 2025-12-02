@@ -5,5 +5,5 @@ type: value
 
 ## Principles that support this value
 
-- [[scarcity-principle]]
+- [[exploration-principle]]
 - [[freedom-principle]]

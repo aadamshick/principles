@@ -3,7 +3,7 @@ title: Exploration Principle
 type: principle
 ---
 
-Master something before following your passion
+Exploration, then exploitation
 
 ## Quotes that support this principle
 

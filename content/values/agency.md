@@ -11,3 +11,4 @@ Taking ownership of your reality
 - [[expectation-principle]]
 - [[mindset-principle]]
 - [[discipline-principle]]
+- [[comparison-principle]]

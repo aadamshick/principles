@@ -5,5 +5,5 @@ type: value
 
 ## Principles that support this value
 
-- [[gratitude-principle]]
+- [[happiness-principle]]
 - [[cat-principle]]
