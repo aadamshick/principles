@@ -5,9 +5,10 @@ type: value
 
 ## Principles that support this value
 
+- [[mountain-principle]]
 - [[action-principle]]
 - [[backward-principle]]
 - [[rest-principle]]
-- [[insanity-principle]]
 - [[brick-principle]]
-- [[mountain-principle]]
+- [[mindset-principle]]
+- [[insanity-principle]]

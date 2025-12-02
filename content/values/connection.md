@@ -6,7 +6,7 @@ type: value
 ## Principles that support this value
 
 - [[golden-rule]]
-- [[criticism-principle]]
-- [[proximity-principle]]
 - [[reach-out-principle]]
+- [[proximity-principle]]
+- [[criticism-principle]]
 - [[revenge-principle]]

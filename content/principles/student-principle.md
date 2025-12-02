@@ -3,7 +3,7 @@ title: Student Principle
 type: principle
 ---
 
-Never stop learning
+Never graduate
 
 ## Quotes that support this principle
 

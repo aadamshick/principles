@@ -3,7 +3,7 @@ title: Brick Principle
 type: principle
 ---
 
-Big outcomes come from a collection of small steps
+Big outcomes are made up of a series of small steps
 
 ## Quotes that support this principle
 
