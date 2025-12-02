@@ -1,5 +1,5 @@
 ---
-title: Gratitude
+title: Every Place Has Mangos
 type: quote
 source: Anonymous
 ---

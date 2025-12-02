@@ -1,5 +1,5 @@
 ---
-title: Golden Rule
+title: Magnet of Unselfishness
 type: quote
 source: Paramahansa Yogananda
 ---

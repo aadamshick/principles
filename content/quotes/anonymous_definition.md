@@ -1,5 +1,5 @@
 ---
-title: Definition
+title: Decide What Life You Want
 type: quote
 source: Anonymous
 ---

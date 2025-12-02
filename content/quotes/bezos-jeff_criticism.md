@@ -1,5 +1,5 @@
 ---
-title: Criticism
+title: Critics and Innovation
 type: quote
 source: Jeff Bezos
 ---

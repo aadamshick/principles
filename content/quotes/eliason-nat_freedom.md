@@ -1,5 +1,5 @@
 ---
-title: Freedom
+title: Freedom is a Currency
 type: quote
 source: Nat Eliason
 ---

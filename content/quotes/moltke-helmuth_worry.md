@@ -1,5 +1,5 @@
 ---
-title: Worry
+title: No Plan Survives Contact
 type: quote
 source: Helmuth von Moltke the Elder
 ---

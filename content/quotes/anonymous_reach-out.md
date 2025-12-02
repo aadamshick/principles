@@ -1,5 +1,5 @@
 ---
-title: Reach Out
+title: Others Are Waiting
 type: quote
 source: Anonymous
 ---

@@ -1,5 +1,5 @@
 ---
-title: Exploration
+title: Master Something First
 type: quote
 source: Kevin Kelly
 ---

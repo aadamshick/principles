@@ -1,5 +1,5 @@
 ---
-title: Worry
+title: Serenity Prayer
 type: quote
 source: Reinhold Niebuhr
 ---

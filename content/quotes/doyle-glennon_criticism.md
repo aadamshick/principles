@@ -1,5 +1,5 @@
 ---
-title: Criticism
+title: Disappoint Others, Not Yourself
 type: quote
 source: Glennon Doyle
 ---

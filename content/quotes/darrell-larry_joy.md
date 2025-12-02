@@ -1,5 +1,5 @@
 ---
-title: Joy
+title: Take Delight When You Have It
 type: quote
 source: Larry Darrell
 ---

@@ -1,5 +1,5 @@
 ---
-title: Rest
+title: Sleep On It
 type: quote
 source: Kevin Kelly
 ---

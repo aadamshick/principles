@@ -1,5 +1,5 @@
 ---
-title: Mindset
+title: Becoming is Better
 type: quote
 source: Carol Dweck
 ---

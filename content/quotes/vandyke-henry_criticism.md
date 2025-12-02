@@ -1,5 +1,5 @@
 ---
-title: Criticism
+title: Use Your Talents
 type: quote
 source: Henry Van Dyke
 ---

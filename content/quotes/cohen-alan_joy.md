@@ -1,5 +1,5 @@
 ---
-title: Joy
+title: Joy is Your Lesson
 type: quote
 source: Alan Cohen
 ---

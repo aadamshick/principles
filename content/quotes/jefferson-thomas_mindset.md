@@ -1,5 +1,5 @@
 ---
-title: Mindset
+title: Right Mental Attitude
 type: quote
 source: Thomas Jefferson
 ---

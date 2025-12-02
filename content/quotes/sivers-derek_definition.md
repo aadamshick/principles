@@ -1,5 +1,5 @@
 ---
-title: Definition
+title: How Do You Grade Yourself
 type: quote
 source: Derek Sivers
 ---

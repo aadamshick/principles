@@ -1,5 +1,5 @@
 ---
-title: Minimalism
+title: Focus on Subtracting
 type: quote
 source: Derek Sivers
 ---

@@ -1,5 +1,5 @@
 ---
-title: Gratitude
+title: Trade Expectation for Appreciation
 type: quote
 source: Tony Robbins
 ---

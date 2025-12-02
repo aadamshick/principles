@@ -1,5 +1,5 @@
 ---
-title: Student
+title: Day 1 Mentality
 type: quote
 source: Amazon
 ---

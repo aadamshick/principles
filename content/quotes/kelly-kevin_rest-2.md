@@ -1,5 +1,5 @@
 ---
-title: Rest
+title: Probably Sleep
 type: quote
 source: Kevin Kelly
 ---

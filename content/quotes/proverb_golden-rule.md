@@ -1,5 +1,5 @@
 ---
-title: Golden Rule
+title: Treat Others as You Want
 type: quote
 source: Proverb
 ---

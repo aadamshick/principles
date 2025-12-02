@@ -1,5 +1,5 @@
 ---
-title: Discipline
+title: World Will Discipline You
 type: quote
 source: William Feather
 ---

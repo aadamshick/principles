@@ -1,5 +1,5 @@
 ---
-title: Expectation
+title: Expectation Becomes Reality
 type: quote
 source: Proverb
 ---

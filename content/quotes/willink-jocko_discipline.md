@@ -1,5 +1,5 @@
 ---
-title: Discipline
+title: Discipline Equals Freedom
 type: quote
 source: Jocko Willink
 ---

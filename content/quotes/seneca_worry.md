@@ -1,5 +1,5 @@
 ---
-title: Worry
+title: Suffer in Imagination
 type: quote
 source: Seneca
 ---

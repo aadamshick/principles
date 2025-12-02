@@ -1,5 +1,5 @@
 ---
-title: Expectation
+title: Stories Alter Your World
 type: quote
 source: Ben Okri
 ---

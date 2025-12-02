@@ -1,5 +1,5 @@
 ---
-title: Revenge
+title: Dig Two Graves
 type: quote
 source: Confucius
 ---

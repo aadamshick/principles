@@ -1,5 +1,5 @@
 ---
-title: Garbage
+title: Garbage In Garbage Out
 type: quote
 source: Anonymous
 ---

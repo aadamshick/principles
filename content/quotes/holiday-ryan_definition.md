@@ -1,5 +1,5 @@
 ---
-title: Definition
+title: Why Do You Do What You Do
 type: quote
 source: Ryan Holiday
 ---

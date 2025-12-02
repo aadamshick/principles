@@ -1,5 +1,5 @@
 ---
-title: Minimalism
+title: Minds Hurt by Overeating
 type: quote
 source: Petrarch
 ---

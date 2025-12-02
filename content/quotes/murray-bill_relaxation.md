@@ -1,5 +1,5 @@
 ---
-title: Relaxation
+title: Best When Relaxed
 type: quote
 source: Bill Murray
 ---

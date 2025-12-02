@@ -1,5 +1,5 @@
 ---
-title: Freedom
+title: Price of Anything
 type: quote
 source: Henry David Thoreau
 ---

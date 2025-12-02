@@ -1,5 +1,5 @@
 ---
-title: Reach Out
+title: No Delight Unshared
 type: quote
 source: Seneca
 ---

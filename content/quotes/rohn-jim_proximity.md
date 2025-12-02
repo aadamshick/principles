@@ -1,5 +1,5 @@
 ---
-title: Proximity
+title: Average of Five People
 type: quote
 source: Jim Rohn
 ---

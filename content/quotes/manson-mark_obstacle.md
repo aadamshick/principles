@@ -1,5 +1,5 @@
 ---
-title: Obstacle
+title: What If It Was a Gift
 type: quote
 source: Mark Manson
 ---

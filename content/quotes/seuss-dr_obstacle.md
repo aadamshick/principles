@@ -1,5 +1,5 @@
 ---
-title: Obstacle
+title: Three Choices
 type: quote
 source: Dr. Seuss
 ---

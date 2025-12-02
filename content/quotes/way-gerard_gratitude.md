@@ -1,5 +1,5 @@
 ---
-title: Gratitude
+title: Look Beyond Imperfections
 type: quote
 source: Gerard Way
 ---

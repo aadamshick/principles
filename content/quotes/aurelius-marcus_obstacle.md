@@ -1,5 +1,5 @@
 ---
-title: Obstacle
+title: What Stands in the Way
 type: quote
 source: Marcus Aurelius
 ---

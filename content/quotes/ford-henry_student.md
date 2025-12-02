@@ -1,5 +1,5 @@
 ---
-title: Student
+title: Keep Learning Stay Young
 type: quote
 source: Henry Ford
 ---

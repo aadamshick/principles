@@ -1,5 +1,5 @@
 ---
-title: Definition
+title: Stock Clerk With a Goal
 type: quote
 source: J. C. Penny
 ---

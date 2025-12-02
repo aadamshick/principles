@@ -1,5 +1,5 @@
 ---
-title: Minimalism
+title: Wealth of Information
 type: quote
 source: Herbert Simon
 ---

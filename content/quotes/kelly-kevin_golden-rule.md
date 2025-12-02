@@ -1,5 +1,5 @@
 ---
-title: Golden Rule
+title: More You Give More You Get
 type: quote
 source: Kevin Kelly
 ---

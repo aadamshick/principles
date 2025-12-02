@@ -1,5 +1,5 @@
 ---
-title: Comparison
+title: Compare to Yesterday's You
 type: quote
 source: Jordan Peterson
 ---

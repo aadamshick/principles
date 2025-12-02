@@ -1,5 +1,5 @@
 ---
-title: Comparison
+title: Neighbor's Bowl
 type: quote
 source: Louis CK
 ---

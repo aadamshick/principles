@@ -1,5 +1,5 @@
 ---
-title: Criticism
+title: Know Your Why
 type: quote
 source: Derek Sivers
 ---

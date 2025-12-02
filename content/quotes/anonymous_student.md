@@ -1,5 +1,5 @@
 ---
-title: Student
+title: When Student is Ready
 type: quote
 source: Anonymous
 ---

@@ -1,5 +1,5 @@
 ---
-title: Insanity
+title: God Sends Ex Back
 type: quote
 source: Matthew McConaughey
 ---

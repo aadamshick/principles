@@ -1,5 +1,5 @@
 ---
-title: Insanity
+title: Definition of Insanity
 type: quote
 source: Albert Einstein
 ---

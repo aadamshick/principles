@@ -1,5 +1,5 @@
 ---
-title: Relaxation
+title: Relax for Same Result
 type: quote
 source: Derek Sivers
 ---

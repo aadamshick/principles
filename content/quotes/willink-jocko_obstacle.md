@@ -1,5 +1,5 @@
 ---
-title: Obstacle
+title: When Things Go Bad
 type: quote
 source: Jocko Willink
 ---

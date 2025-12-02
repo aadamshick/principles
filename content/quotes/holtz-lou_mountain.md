@@ -1,5 +1,5 @@
 ---
-title: Mountain
+title: Growing or Dying
 type: quote
 source: Lou Holtz
 ---

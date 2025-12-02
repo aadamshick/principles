@@ -1,5 +1,5 @@
 ---
-title: Mindset
+title: Pros Recover from Mistakes
 type: quote
 source: Kevin Kelly
 ---

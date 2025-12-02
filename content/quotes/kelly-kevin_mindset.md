@@ -1,5 +1,5 @@
 ---
-title: Mindset
+title: No Limit on Better
 type: quote
 source: Kevin Kelly
 ---

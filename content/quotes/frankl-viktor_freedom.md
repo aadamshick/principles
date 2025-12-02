@@ -1,5 +1,5 @@
 ---
-title: Freedom
+title: Pursuit of Worthwhile Goal
 type: quote
 source: Viktor Frankl
 ---

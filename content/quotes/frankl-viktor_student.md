@@ -1,5 +1,5 @@
 ---
-title: Student
+title: Specialist and the Forest
 type: quote
 source: Viktor Frankl
 ---

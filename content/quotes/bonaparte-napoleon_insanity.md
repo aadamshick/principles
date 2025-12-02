@@ -1,5 +1,5 @@
 ---
-title: Insanity
+title: Extraordinary Resolution
 type: quote
 source: Napoleon Bonaparte
 ---

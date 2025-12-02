@@ -1,5 +1,5 @@
 ---
-title: Joy
+title: Scrape Joy From Life
 type: quote
 source: Rod Kimble
 ---

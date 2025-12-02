@@ -1,5 +1,5 @@
 ---
-title: Discipline
+title: Price of Excellence
 type: quote
 source: Chuck McGill
 ---

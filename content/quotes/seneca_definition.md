@@ -1,5 +1,5 @@
 ---
-title: Definition
+title: Plans Without Aim
 type: quote
 source: Seneca
 ---

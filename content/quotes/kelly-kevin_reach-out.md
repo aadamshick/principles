@@ -1,5 +1,5 @@
 ---
-title: Reach Out
+title: Treat to a Meal
 type: quote
 source: Kevin Kelly
 ---

@@ -1,5 +1,5 @@
 ---
-title: Worry
+title: Worrying is Ineffective
 type: quote
 source: Baz Luhrmann
 ---

@@ -1,5 +1,5 @@
 ---
-title: Criticism
+title: Those Who Mind Don't Matter
 type: quote
 source: Dr. Seuss
 ---

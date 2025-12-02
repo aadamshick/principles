@@ -1,5 +1,5 @@
 ---
-title: Proximity
+title: Don't Be Smartest in Room
 type: quote
 source: Kevin Kelly
 ---

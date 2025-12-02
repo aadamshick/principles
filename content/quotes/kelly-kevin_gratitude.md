@@ -1,5 +1,5 @@
 ---
-title: Gratitude
+title: Cheapest Therapy
 type: quote
 source: Kevin Kelly
 ---

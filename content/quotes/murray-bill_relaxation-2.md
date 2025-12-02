@@ -1,5 +1,5 @@
 ---
-title: Relaxation
+title: Better at Everything When Relaxed
 type: quote
 source: Bill Murray
 ---

@@ -1,5 +1,5 @@
 ---
-title: Revenge
+title: Resentment is Poison
 type: quote
 source: ocbbelife
 ---

@@ -1,5 +1,5 @@
 ---
-title: Cat
+title: Pet a Cat
 type: quote
 source: Jordan Peterson
 ---

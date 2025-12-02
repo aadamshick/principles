@@ -1,5 +1,5 @@
 ---
-title: Minimalism
+title: Eliminating Clutter
 type: quote
 source: Kevin Kelly
 ---

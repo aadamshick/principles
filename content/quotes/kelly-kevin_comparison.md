@@ -1,5 +1,5 @@
 ---
-title: Comparison
+title: Avoid Seeking Approval
 type: quote
 source: Kevin Kelly
 ---
