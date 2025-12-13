@@ -9,3 +9,4 @@ type: value
 - [[obstacle-principle]]
 - [[relax-principle]]
 - [[worry-principle]]
+- [[pendulum-principle]]

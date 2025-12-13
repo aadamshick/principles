@@ -12,3 +12,5 @@ You must define your own success
 ![[penny-jc_definition#^quote]]
 ![[anonymous_definition#^quote]]
 ![[sivers-derek_definition#^quote]]
+![[willink-jocko_purpose#^quote]]
+![[leon-aj_definition#^quote]]

@@ -12,4 +12,5 @@ Worrying is ineffective and often unnecessary
 ![[seneca_worry#^quote]]
 ![[niebuhr-reinhold_worry#^quote]]
 ![[moltke-helmuth_worry#^quote]]
+![[fable_farmer-horse#^quote]]
 

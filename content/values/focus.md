@@ -6,5 +6,5 @@ type: value
 ## Principles that support this value
 
 - [[donkey-principle]]
-- [[minimalism-principle]]
-- [[garbage-principle]]
+- [[scarcity-principle]]
+- [[commitment-principle]]

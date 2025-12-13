@@ -10,5 +10,5 @@ type: value
 - [[backward-principle]]
 - [[rest-principle]]
 - [[brick-principle]]
-- [[mindset-principle]]
 - [[insanity-principle]]
+- [[garbage-principle]]

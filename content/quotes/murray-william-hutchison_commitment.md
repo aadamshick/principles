@@ -1,0 +1,9 @@
+---
+title: Until One Is Committed
+type: quote
+source: William Hutchison Murray
+---
+
+> "Until one is committed, there is hesitancy, the chance to draw back, always ineffectiveness. Concerning all acts of initiative (and creation), there is one elementary truth, the ignorance of which kills countless ideas and splendid plans: that the moment one definitely commits oneself, then Providence moves too. All sorts of things occur to help one that would never otherwise have occurred. A whole stream of events issues from the decision, raising in one's favour all manner of unforeseen incidents and meetings and material assistance, which no man could have dreamt would have come his way."
+> — William Hutchison Murray ^quote
+

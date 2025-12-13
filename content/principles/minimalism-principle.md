@@ -12,3 +12,4 @@ The fewer things you have, the more meaningful each thing becomes
 ![[simon-herbert_minimalism#^quote]]
 ![[petrarch_minimalism#^quote]]
 ![[sivers-derek_minimalism#^quote]]
+![[anonymous_curse-traveler#^quote]]
